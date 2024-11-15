@@ -23,5 +23,17 @@
     "jsdom": "^20.0.0",
     "vite": "^3.0.7",
     "vitest": "^0.22.1"
-  }
+  },
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnadesai0987/github-actions-rampup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krishnadesai0987/github-actions-rampup/issues"
+  },
+  "homepage": "https://github.com/krishnadesai0987/github-actions-rampup#readme",
+  "description": ""
 }
