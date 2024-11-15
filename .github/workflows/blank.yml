@@ -1,0 +1,13 @@
+name: first  workflow
+# event that trigger workflow, this is for manually triggered
+on: workflow_dispatch  
+jobs:
+  first-job: 
+   # define runner on which job runs
+   runs-on: ubuntu-latest
+   steps:
+     - name: check-in
+       run: echo "hello GHA"
+     - name: check-out
+       run:  echo "exit GHA"
+   
