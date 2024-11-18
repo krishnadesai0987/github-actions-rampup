@@ -1,4 +1,4 @@
-name: event on issue
+name: Handle issues
 on: 
   issues:
     Output_information:
