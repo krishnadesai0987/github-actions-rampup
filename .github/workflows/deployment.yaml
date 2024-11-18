@@ -4,7 +4,7 @@ jobs:
   lint:
     runs-on:  ubuntu-latest
     steps:
-      - name: linit check
+      - name: lint check
         run: npm linit        
   test:
     runs-on: ubuntu-latest 
