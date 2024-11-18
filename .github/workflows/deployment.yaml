@@ -5,7 +5,7 @@ jobs:
     runs-on:  ubuntu-latest
     steps:
       - name: lint check
-        run: npm linit        
+        run: npm lint      
   test:
     runs-on: ubuntu-latest 
     steps:
