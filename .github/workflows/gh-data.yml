@@ -1,4 +1,4 @@
-name: Deploy website
+name: Get Job Artifacts 
 on:
   push:
     branches:

@@ -1,4 +1,4 @@
-name: Events Demo 1
+name: Events And Filters
 on:
   pull_request:
     types:
